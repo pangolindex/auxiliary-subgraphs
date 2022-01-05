@@ -8,8 +8,8 @@ Auxiliary subgraphs for Pangolin analytics
 
 ### Usage
 
-- CD into the repository
 - Install dependencies with `yarn install`
+- CD into the repository
 - Run `yarn codegen`, `yarn build`
 - Authenticate with `graph auth [key]`
 - Deploy with `yarn deploy`
