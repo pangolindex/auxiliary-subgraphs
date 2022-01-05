@@ -1,5 +1,7 @@
-# auxiliary-subgraphs
-Auxiliary subgraphs for Pangolin analytics
+# Auxiliary Pangolin subgraphs
+
+Repo used for subgraphs used to supplement the main Pangolin analytics subgraph
+
 
 
 **Dexcandles** Used for queries for candle charts.
